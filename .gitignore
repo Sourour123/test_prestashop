@@ -9,7 +9,7 @@ themes/classic/_dev/node_modules*
 
 !modules
 modules/*
-!modules/ps_searchbarjqauto
+!modules/dashactivity
 
 !import
 import/*
